@@ -8,5 +8,6 @@ namespace btl.net
 {
     class Class2
     {
+        public int MaSv;
     }
 }

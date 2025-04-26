@@ -8,6 +8,6 @@ namespace btl.net
 {
     class QQQ
     {
-        public static 
+        public int = MaSV;
     }
 }
