@@ -8,5 +8,9 @@ namespace btl.net
 {
     internal class ngaa
     {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
     }
 }
