@@ -55,6 +55,7 @@
     <Compile Include="nhung.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="quynh.cs" />
     <Compile Include="Test.cs" />
     <Compile Include="test2.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
